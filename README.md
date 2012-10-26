@@ -22,8 +22,8 @@ It detects two fingers and calculate (through Pythagorean Theorem) the distance 
 
 WHO
 
-I'm Luisfer Romero Calero (1986), a Spanish mobile developer, with some skills in HTML5, JavaScript, CSS, ExtJS, Java,
-C and Android. 
+I'm Luisfer Romero Calero (1986), a Spanish mobile developer.
+I try to upload to Github projects in HTML5, JavaScript (ExtJS, ember.js, Handlebars, jQuery), CSS, Java, C and Android. 
 If you want to tell me or ask me something about Neckar, I'll be up to read you at luisfer.romero.calero(at)gmail.com
 
 WHEN AND WHERE
